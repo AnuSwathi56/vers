@@ -2,5 +2,9 @@ a= (input("enter integer number1"))
 b=(input("enter integer number2"))
 add=a+b
 sub= a-b
+mul = a*b
+div = a/b
 print("addition of {} and {} are {}".format(a,b,add))
 print("Subraction of {} and {} are {}".format(a,b,sub))
+print("Mul of {} and {} are {}".format(a,b,mul))
+print("div of {} and {} are {}".format(a,b,div))
