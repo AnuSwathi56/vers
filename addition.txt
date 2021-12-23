@@ -1,0 +1,4 @@
+a= (input("enter integer number1"))
+b=(input("enter integer number2"))
+add=a+b
+print("addition of {} and {} are {}".format(a,b,add))
